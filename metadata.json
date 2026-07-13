@@ -1,0 +1,6 @@
+{
+  "name": "Atabey Taş Fırın",
+  "description": "Atabey Taş Fırın ve Pastanesi resmi web sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
